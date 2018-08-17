@@ -1,0 +1,6 @@
+xiaomi
+huawei
+meizu
+oppo
+vivo
+qq
